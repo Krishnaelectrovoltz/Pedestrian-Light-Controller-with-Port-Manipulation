@@ -2,8 +2,6 @@
 
 ![Image](https://github.com/user-attachments/assets/265b2a0a-3e85-4fc7-bb91-e38b3118f9c5)
 
-# Traffic Light & Pedestrian Control (Arduino, Port Manipulation)
-
 This project implements a **traffic light and pedestrian crossing system** using **direct port manipulation** on an **Arduino board**. Instead of using `digitalWrite()`, it directly modifies **PORTx, DDRx, and PINx registers** for **faster execution and better performance**.
 
 ## Features
