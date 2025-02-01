@@ -40,6 +40,7 @@ This project implements a **traffic light and pedestrian crossing system** using
 - When the **pedestrian button is pressed**, the sequence begins:
 - An additional segment lights up to indicate the pedestrian button was pressed.
   - Traffic **Green → Yellow → Red**
+  - Pedestrain Light → Turns on
   - Pedestrian **Green blinks**, countdown starts on the **7-segment display**.
   - Once the countdown ends, traffic **resumes with Green light**.
 
