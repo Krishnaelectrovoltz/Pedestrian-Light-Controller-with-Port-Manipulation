@@ -6,9 +6,13 @@ This project implements a **traffic light and pedestrian crossing system** using
 
 ## Features
 ✅ Traffic light control (Red, Yellow, Green)
+
 ✅ Pedestrian crossing with blinking Green light & countdown display
+
 ✅ Push-button activated pedestrian request
+
 ✅ 7-segment display countdown timer
+
 ✅ Optimized performance using **PORTx, DDRx, PINx**
 
 ## Hardware Requirements
