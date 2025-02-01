@@ -28,7 +28,7 @@ This project implements a **traffic light and pedestrian crossing system** using
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/krishnaelectrovoltz/Pedestrian-Traffic-Light-Controller.git
+   git clone https://github.com/krishnaelectrovoltz/Pedestrian-Light-Controller-with-Port-Manipulation.git
    ```
 2. Open the project in **Arduino IDE**.
 3. Upload the sketch to your **Arduino board**.
